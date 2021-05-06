@@ -1,5 +1,4 @@
 # pro_mern_stack
------------------
 Source for Issue Tracker web page application that reads and write to MongoDB using MERN stack.
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -13,7 +12,6 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 
 
 # Screenshots
------------------
 #### Progress images
 
 <img width="364" alt="a13-part2a" src="https://user-images.githubusercontent.com/69225402/117089880-a5a17700-ad0b-11eb-89f3-04149082adc8.png">
@@ -25,7 +23,6 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 ----
 
 # Summary
------------------
 ### -  *[Contributors](#Contributors)*
 ### -  *[License](#License)*
 
@@ -33,7 +30,6 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 
 
 # Contributors
------------------
 <table class="example1" style="background-color:transparent;border-collapse:collapse;">
 <tr>
 <td style="border:1px solid black;padding:5px;width:50%;text-align:center;">Celeste Maldonado<br>
@@ -47,7 +43,6 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 
 
 # License
------------------
 #### MIT © cmaldon
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ```bash
