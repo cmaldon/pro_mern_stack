@@ -26,8 +26,14 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 
 
 # Contributors
+<table class="example1">
+<tr>
+<td>[![](https://contrib.rocks/image?repo=cmaldon/pro_mern_stack)](https://github.com/cmaldon/pro_mern_stack/graphs/contributors)</td>
+  <td>github.com/cmaldon<br>
+cmaldonado@bearcubs.santarosa.edu</td>
+</tr>
+</table>
 
-[![](https://contrib.rocks/image?repo=cmaldon/pro_mern_stack)](https://github.com/cmaldon/pro_mern_stack/graphs/contributors)
 
 ##### Made with [contributors-img](https://contrib.rocks).
 
