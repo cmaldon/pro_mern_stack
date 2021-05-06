@@ -44,7 +44,8 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 
 
 # Contributors
-<h4>Thank you</h4>
+
+<h3>Thank you</h3>
 
 ----
 
