@@ -28,10 +28,10 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 # Contributors
 <table class="example1" style="background-color:transparent;border-collapse:collapse;">
 <tr>
-<td style="border:1px solid black;padding:5px;width:50%;">Celeste Maldonado</td>
-<td style="border:1px solid black;padding:5px;width:50%;"><image src="https://contrib.rocks/image?repo=cmaldon/pro_mern_stack"></image></td>
-<td style="border:1px solid black;padding:5px;width:50%;"><a href="https://github.com/cmaldon">github.com/cmaldon</a></td>
-<td style="border:1px solid black;padding:5px;width:50%;"><a href="mailto: cmaldonado@bearcubs.santarosa.edu">email me</a></td>
+<td style="border:1px solid black;padding:5px;width:50%;">Celeste Maldonado<br>
+<image src="https://contrib.rocks/image?repo=cmaldon/pro_mern_stack"></image></td>
+<td style="border:1px solid black;padding:5px;width:50%;"><a href="https://github.com/cmaldon">github.com/cmaldon</a><br>
+<a href="mailto: cmaldonado@bearcubs.santarosa.edu">email me</a></td>
 </tr>
 </table>
 
