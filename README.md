@@ -1,5 +1,5 @@
 # pro_mern_stack
-----
+-----------------
 Source for Issue Tracker web page application that reads and write to MongoDB using MERN stack.
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
@@ -9,8 +9,11 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 
 <!-- <h4 align="center">________________________</h4> -->
 
------------------
+----
+
+
 # Screenshots
+-----------------
 #### Progress images
 
 <img width="364" alt="a13-part2a" src="https://user-images.githubusercontent.com/69225402/117089880-a5a17700-ad0b-11eb-89f3-04149082adc8.png">
@@ -19,13 +22,18 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 
 <img width="274" alt="a11-part2c" src="https://user-images.githubusercontent.com/69225402/117089926-be119180-ad0b-11eb-9c1f-38fe074d7210.png">
 
+----
 
 # Summary
+-----------------
 ### -  *[Contributors](#Contributors)*
 ### -  *[License](#License)*
 
+----
+
 
 # Contributors
+-----------------
 <table class="example1" style="background-color:transparent;border-collapse:collapse;">
 <tr>
 <td style="border:1px solid black;padding:5px;width:50%;text-align:center;">Celeste Maldonado<br>
@@ -35,9 +43,11 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 </tr>
 </table>
 
+----
 
------------------
+
 # License
+-----------------
 #### MIT © cmaldon
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ```bash
@@ -47,3 +57,4 @@ cmaldonado@bearcubs.santarosa.edu
 ______________________
 ``` 
 
+----
