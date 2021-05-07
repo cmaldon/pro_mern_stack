@@ -13,7 +13,7 @@ onChangeStatus(e) {
   const { history } = this.props;
   history.push({
     pathname: '/issues',
-    search: status ? '?status=${status}' : '',
+    search: status ? `?status=${status}` : '',
   });
 }
 
