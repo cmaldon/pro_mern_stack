@@ -11,3 +11,7 @@ table.bordered-table th, td {
 table.bordered-table {
     border-collapse: collapse;
 }
+
+a.active {
+    background-color: #D8D8F5;
+}
