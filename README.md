@@ -13,6 +13,8 @@ Source for Issue Tracker web page application that reads and write to MongoDB us
 
 # Screenshots
 #### Progress images
+<img width="372" alt="a14-part2a" src="https://user-images.githubusercontent.com/69225402/117381364-c1825580-ae90-11eb-8d50-0fa370a4a2dc.png">
+
 <img width="379" alt="a14-part1c" src="https://user-images.githubusercontent.com/69225402/117378356-18386100-ae8a-11eb-979a-2299a3a0cff0.png">
 
 <img width="374" alt="a14-part1d" src="https://user-images.githubusercontent.com/69225402/117378357-18d0f780-ae8a-11eb-957a-a00d96718995.png">
